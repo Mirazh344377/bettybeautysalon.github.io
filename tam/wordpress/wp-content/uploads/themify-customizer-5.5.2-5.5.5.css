@@ -1,0 +1,27 @@
+/* Themify Customize Styling */
+body {	
+	font-family: "Open Sans";	font-weight:300;
+ 
+}
+textarea, input[type=text], input[type=password], input[type=search], input[type=email], input[type=url], input[type=number], input[type=tel], input[type=date], input[type=datetime], input[type=datetime-local], input[type=month], input[type=time], input[type=week] {	background: none;
+	background-color: rgba(255,255,255,0.71);
+	color: #222222;	text-align:center; 
+}
+body #site-logo a img {		width: 160px;
+	height: 100px; 
+}
+#footer-logo a {	display: none; 
+}
+@media screen and (max-width: 1024px) { /* Themify Customize Styling */
+body #site-logo a img {		width: 160px;
+	height: 100px; 
+}
+ }@media screen and (max-width: 768px) { /* Themify Customize Styling */
+body #site-logo a img {		width: 160px;
+	height: 100px; 
+}
+ }@media screen and (max-width: 600px) { /* Themify Customize Styling */
+body #site-logo a img {		width: 160px;
+	height: 100px; 
+}
+ }
